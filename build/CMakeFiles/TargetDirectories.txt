@@ -1,0 +1,3 @@
+/Users/vyacheslavtarakanov/Documents/GeekBrains/Qt/HomeTasks/HomeTasks/Урок4/categorizer/build/CMakeFiles/rebuild_cache.dir
+/Users/vyacheslavtarakanov/Documents/GeekBrains/Qt/HomeTasks/HomeTasks/Урок4/categorizer/build/CMakeFiles/edit_cache.dir
+/Users/vyacheslavtarakanov/Documents/GeekBrains/Qt/HomeTasks/HomeTasks/Урок4/categorizer/build/CMakeFiles/categorizer.dir
